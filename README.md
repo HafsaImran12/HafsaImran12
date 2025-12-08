@@ -24,7 +24,7 @@
 * **Design:** UI/UX basics, layout design, buttons, cards, headers
 * **Tools:** Git, GitHub
 * **Learning:** JavaScript and interactive web elements
-* **Other Skills** 🏢 AutoCAD
+* **Other Skills:** AutoCAD
 
 ---
 
