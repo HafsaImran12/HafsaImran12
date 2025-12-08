@@ -13,7 +13,6 @@
 ## 🚀 About Me
 
 * 🌱 Learning **HTML, CSS, and JavaScript**
-* 🎨 Passionate about **UI/UX Design**
 * 🛠 Exploring **Git & GitHub** for better development workflow
 * 💡 Goal: Build **visually appealing and functional web applications**
 
@@ -25,12 +24,7 @@
 * **Design:** UI/UX basics, layout design, buttons, cards, headers
 * **Tools:** Git, GitHub
 * **Learning:** JavaScript and interactive web elements
-
----
-
-## 🏗 Other Skills
-
-* 🏢 AutoCAD
+* **Other Skills** 🏢 AutoCAD
 
 ---
 
