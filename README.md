@@ -30,8 +30,6 @@
 
 ## 📁 Projects
 
-> *(Links will be added once projects are uploaded)*
-
 * 🌐 Fully structured website layouts using HTML & CSS
 * 🎨 UI components (buttons, cards, headers, menus)
 * 📱 Responsive web sections for multiple devices
@@ -42,8 +40,6 @@
 
 * 📧 Email: *hafsaemran1712@gmail.com*
 * 💼 LinkedIn: <a href="https://www.linkedin.com/in/hafsa-imran-8004b7377/" target="_blank">Hafsa Imran</a>
-
-* 🌍 Portfolio: *Coming soon*
 
 ---
 
