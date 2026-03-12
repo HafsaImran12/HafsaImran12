@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-* 🌱 Learning **HTML, CSS, and JavaScript**
+* 🌱 **HTML, CSS, and learning JavaScript**
 * 🛠 Exploring **Git & GitHub** for better development workflow
 * 💡 Goal: Build **visually appealing and functional web applications**
 
@@ -20,11 +20,10 @@
 
 ## 🧰 Skills
 
-* **Frontend:** HTML5, CSS3 (Flexbox, Grid, Responsive Design)
-* **Design:** UI/UX basics, layout design, buttons, cards, headers
+* **Frontend:** HTML5, CSS3 (Flexbox, Grid, Responsive Design), JavaScript
+* **Design:** UI/UX basics, layout design, Websites clones 
 * **Tools:** Git, GitHub
 * **Learning:** JavaScript and interactive web elements
-* **Other Skills:** AutoCAD
 
 ---
 
